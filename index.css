@@ -1,0 +1,22 @@
+.background-image {
+    background-image: url('k.jpg');
+    background-position: center;
+    width: 1450px;
+    height: 32000px;
+}
+h1{
+    font-size: 3em;
+}
+h2{
+    font-size: 3em;
+}
+h3 {
+    font-size: 2em;
+}
+button {
+padding: 10px 20px;
+
+
+    font-size: 50px; border: black; background-color: gold ;color: rgb(0, 0, 0);
+}
+    
